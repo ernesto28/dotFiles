@@ -1,3 +1,8 @@
 # Alias Document
-alias note = "vim ~/dev/notes.txt"
-alias backup = "cd ~/dev;git add .;git commit -m 'Backup at $(date +'%D %T')';git push origin master"
+# Openind directories
+alias dot="cd ~/dev/dotfiles/"
+# Open documents whit vim editor
+alias note="vim ~/dev/notes.txt"
+alias valias="vim ~/dev/dotfiles/.alias"
+# Backup my dotFiles and personal notes
+alias backup="cd ~/dev;git add .;git commit -m 'Backup at $(date +'%D %T')';git push origin master"
