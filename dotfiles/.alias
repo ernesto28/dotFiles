@@ -1,0 +1,4 @@
+# Alias Document
+alias note = "vim ~/dev/notes.txt"
+alias backup = "cd ~/dev;git add .;git commit -m 'Backup at $(date +'%D %T')';git push"
+alias reload = "~/.bashrc"
