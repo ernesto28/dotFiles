@@ -1,0 +1,23 @@
+1. Configure your DotFiles
+2. create a alias & task to backup your main enviroment (/usuario/dev/notes.txt)
+3. usar VIM para siempre editar ese archivo notes.txt
+https://dotfiles.github.io/
+almenos dos dotfiles : vim, alias
+PARA el liunes su linea de comandos deberia poder ejecutar:
+1. `note` . : abrir su archivo de notas con vim
+2. `backup` : respaldar en su github personal . , sus dotfiles , y sus notas en algo mas privado
+
+vim comands:
+-see: https://www.fprintf.net/vimCheatSheet.html
+-examples: http://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm
+i - insertion mode
+Esc - exit the insertion mode
+:w - save workspace in the file
+:wq - save workspace and quit
+:q - exit with a warning that unsaved work
+:q! - exit without warning
+
+atom:
+Flight Manual: http://flight-manual.atom.io
+Ctrl+s - save the changes
+Ctrl+q - exit atom
