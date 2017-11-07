@@ -1,12 +1,8 @@
 #This weeks homework
-1. Configure your DotFiles
-2. create a alias & task to backup your main enviroment (/usuario/dev/notes.txt)
-3. usar VIM para siempre editar ese archivo notes.txt
-https://dotfiles.github.io/
-almenos dos dotfiles : vim, alias
-PARA el liunes su linea de comandos deberia poder ejecutar:
-1. `note` . : abrir su archivo de notas con vim
-2. `backup` : respaldar en su github personal . , sus dotfiles , y sus notas en algo mas privado
+-investigar de supercontroladores
+-investigar GPS
+-book: ego is the enemy
+-book: extreme ownership
 
 vim comands:
 #see: https://www.fprintf.net/vimCheatSheet.html
@@ -26,12 +22,26 @@ Ctrl+q - exit atom
 
 git:
 #for saving the user and password of a repository
-$ git config credential.helper store
-$ git push https://github.com/repo.git
+-git config credential.helper store
+-git push https://github.com/repo.git
 Username for 'https://github.com': <USERNAME>
 Password for 'https://USERNAME@github.com': <PASSWORD>
 
 dotFile:
 #tutorial: http://www.anishathalye.com/2014/08/03/managing-your-dotfiles/
 # vim dotfile: https://medium.com/@liveedutv/how-to-create-vim-dotfile-e0f31704dd59
+
+Machine Learning:
+https://www.tensorflow.org/get_started/mnist/beginners
+
+
+Bases de Datos
+-redix
+-influx data
+-mondoDB
+
+https://blog.openalfa.com/como-leer-y-escribir-en-java-un-fichero-comprimido-en-gzip
+
+tarea del kapi:
+https://jee-appy.blogspot.mx/2016/03/how-to-make-rest-api-in-rails.html
 
